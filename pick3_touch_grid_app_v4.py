@@ -1,4 +1,4 @@
-# pick3_touch_grid_app_v8.py
+# pick3_touch_grid_app_v4.py
 # Streamlit app: Pick 3 Due-Digit Grid (touching pairs) + Parity Pair Chart strategy
 # Produces FULL qualifying BOX list ranked, plus a walk-forward backtest to compare methods per state / draw stream.
 #
